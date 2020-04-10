@@ -1,0 +1,8 @@
+os
+sys
+csv
+pandas
+youtube_transcript_api
+googleapiclient
+argparse
+nltk
